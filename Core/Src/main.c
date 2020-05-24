@@ -397,7 +397,7 @@ static void MX_GPIO_Init(void)
 }
 
 /* USER CODE BEGIN 4 */
-void Move_Motor(char choice, int distance)
+void Move_Motor(char choice, int distance)  //distance factoring needs to done post physical testing
 {
   switch(choice){
     case 'r': TIM1->CCR1=distance;  //for rotate-right
