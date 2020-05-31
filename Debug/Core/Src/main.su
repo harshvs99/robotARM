@@ -1,0 +1,10 @@
+main.c:77:5:main	24	static
+main.c:151:6:SystemClock_Config	160	static
+main.c:197:13:MX_TIM1_Init	112	static
+main.c:281:13:MX_TIM2_Init	64	static
+main.c:344:13:MX_UART5_Init	8	static
+main.c:379:13:MX_GPIO_Init	48	static
+main.c:400:6:Move_Motor	16	static
+main.c:425:6:calc3DSpace	56	static
+main.c:472:6:cartesianToRadial	56	static
+main.c:484:6:Error_Handler	4	static
