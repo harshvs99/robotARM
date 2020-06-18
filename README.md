@@ -1,3 +1,8 @@
+[![GitHub issues](https://img.shields.io/github/issues/harshvs99/robotARM)](https://github.com/harshvs99/robotARM/issues)
+[![GitHub forks](https://img.shields.io/github/forks/harshvs99/robotARM)](https://github.com/harshvs99/robotARM/network)
+[![GitHub stars](https://img.shields.io/github/stars/harshvs99/robotARM)](https://github.com/harshvs99/robotARM/stargazers)
+[![GitHub license](https://img.shields.io/github/license/harshvs99/robotARM)](https://github.com/harshvs99/robotARM/blob/master/LICENSE)
+
 # robotARM
 Robotic Spatial Positioning Arm built on ARM Cortex M4 Micro-controller using Servo Motors with Manual and Automated usage
 
